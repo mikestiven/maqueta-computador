@@ -1,0 +1,39 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    background-color: white;
+    margin: 0;
+    padding: 0;
+}
+
+.caja1 {
+    border: #EB0202 solid 2px;
+    height: 200px;
+}
+
+.caja2 {
+    background-color: white;
+    height: 200px;
+}
+
+.caja3 {
+    background-color: #EB0202;
+    height: 200px;
+}
+
+.caja4 {
+    background-color: white;
+    height: 100px;
+}
+
+.caja5 {
+    border: #EB0202 solid 2px;
+    height: 50px;
+}
+
+.caja6 {
+    background-color: #5BEB02;
+    height: 50px;
+}
